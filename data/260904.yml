@@ -7,13 +7,13 @@ about:
   head: 163fbb0
   archived: false
   latestVersion: v0.9.2
-  collectedAt: 2026-09-04T20:03:57Z
+  collectedAt: 2026-09-04T20:36:56Z
 timeline:
   created: 2025-10-30
   lastCommit: 2026-09-04
   lastRelease: 2026-08-25
 popularity:
-  star: 22519
+  star: 22524
   watcher: 58
   fork: 1701
   release: 68
@@ -93,7 +93,7 @@ total:
   commit: 2850
 ---
 path: /home/runner/.x-repo/github.com/vectorize-io/hindsight
-collectedAt: 2026-09-04T20:04:21Z
+collectedAt: 2026-09-04T20:37:31Z
 loc:
   Python:
     code: 378667
