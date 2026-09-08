@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2775344,
       "digest": "sha256:c3a6800eccea0289c4f41ea759d1e661fc3267704fb71a4cfe57783abcf77867",
-      "download_count": 414,
+      "download_count": 415,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3994192,
       "digest": "sha256:463ecf45d2582b0ba966429b0c755969b6e57493ba8b7a8b60c56e95d020aa58",
-      "download_count": 1208,
+      "download_count": 1213,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-linux-amd64"
