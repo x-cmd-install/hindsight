@@ -7,7 +7,7 @@ Hindsight: Agent Memory That Learns
 - **Latest release**: `v0.9.2` (2026-08-25)
 - **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 23271 · **Forks**: 1714 · **Open issues**: 1046 · **Contributors**: 230
+- **Stars**: 23321 · **Forks**: 1722 · **Open issues**: 1055 · **Contributors**: 231
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/hindsight> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:31:02Z._
+_Last regenerated: 2026-09-09T18:41:00Z._
