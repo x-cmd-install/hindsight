@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10122,
       "digest": "sha256:c8a7eb0a27bcc38463a144bea9716897c1cce281ba98d49838f449e75098e257",
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-0.9.2.tgz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3994192,
       "digest": "sha256:463ecf45d2582b0ba966429b0c755969b6e57493ba8b7a8b60c56e95d020aa58",
-      "download_count": 1514,
+      "download_count": 1518,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-linux-amd64"

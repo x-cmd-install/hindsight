@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.2"
   latestRelease: "v0.9.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:22:32Z
+  collectedAt: 2026-09-10T22:35:05Z
 timeline:
   created: 2025-10-30
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-25
   lastPrerelease: 
 popularity:
-  star: 23415
+  star: 23418
   watcher: 59
-  fork: 1728
+  fork: 1730
   release: 68
   contributor: 232
-  pullRequest: 3151
+  pullRequest: 3152
   issue: 1061
 language:
   Python: 20553605
@@ -42,7 +42,7 @@ recent:
     since: 2026-08-11
     release: 2
     mergedPR: 435
-    openPR: 37
+    openPR: 38
     closedIssue: 215
     openIssue: 31
     commit: 439
@@ -50,7 +50,7 @@ recent:
     since: 2026-07-12
     release: 5
     mergedPR: 772
-    openPR: 37
+    openPR: 38
     closedIssue: 429
     openIssue: 38
     commit: 873
@@ -58,7 +58,7 @@ recent:
     since: 2026-06-12
     release: 8
     mergedPR: 1034
-    openPR: 37
+    openPR: 38
     closedIssue: 548
     openIssue: 42
     commit: 1167
@@ -66,7 +66,7 @@ recent:
     since: 2026-03-14
     release: 27
     mergedPR: 1995
-    openPR: 37
+    openPR: 38
     closedIssue: 924
     openIssue: 46
     commit: 2295
@@ -74,7 +74,7 @@ recent:
     since: 2025-09-15
     release: 68
     mergedPR: 2414
-    openPR: 37
+    openPR: 38
     closedIssue: 1014
     openIssue: 47
     commit: 2945
@@ -82,20 +82,20 @@ recent:
     since: 2024-09-20
     release: 68
     mergedPR: 2414
-    openPR: 37
+    openPR: 38
     closedIssue: 1014
     openIssue: 47
     commit: 2955
 total:
   release: 68
   mergedPR: 2414
-  openPR: 37
+  openPR: 38
   closedIssue: 1014
   openIssue: 47
   commit: 2955
 ---
 path: /home/runner/.x-repo/github.com/vectorize-io/hindsight
-collectedAt: 2026-09-10T21:23:21Z
+collectedAt: 2026-09-10T22:35:46Z
 loc:
   Python:
     code: 394819
