@@ -12,6 +12,18 @@ Hindsight: Agent Memory That Learns
 x install hindsight
 ```
 
+## Code insight
+
+Total: **824,205** lines of code across **2720** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 394,819 | 31,541 | 73,929 | 1729 |
+| Json | 233,529 | 0 | 0 | 125 |
+| TypeScript | 66,434 | 17,985 | 8,179 | 519 |
+| Go | 50,902 | 11,442 | 12,347 | 230 |
+| Tsx | 31,520 | 2,053 | 2,247 | 117 |
+
 ## Source
 
 - **Upstream**: <https://github.com/vectorize-io/hindsight>
@@ -23,6 +35,25 @@ x install hindsight
 - **Latest**: `v0.9.2` (2026-08-25)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 34
+
+## Popularity
+
+- **Stars**: 23,415 · **Forks**: 1,728 · **Open issues**: 1,061 · **Contributors**: 232
+
+## Totals (cumulative)
+
+- **Releases**: 68 · **Merged PRs**: 2414 · **Open PRs**: 37 · **Closed issues**: 1014 · **Open issues**: 47 · **Commits**: 2955
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 435 | 37 | 215 | 31 | 439 |
+| last60d | 2026-07-12 | 5 | 772 | 37 | 429 | 38 | 873 |
+| 90d | 2026-06-12 | 8 | 1034 | 37 | 548 | 42 | 1167 |
+| last180d | 2026-03-14 | 27 | 1995 | 37 | 924 | 46 | 2295 |
+| 360d | 2025-09-15 | 68 | 2414 | 37 | 1014 | 47 | 2945 |
+| last720d | 2024-09-20 | 68 | 2414 | 37 | 1014 | 47 | 2955 |
 
 ## Release assets
 
@@ -63,33 +94,9 @@ x install hindsight
 | [vectorize-io-hindsight-client-0.9.2.tgz](https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/vectorize-io-hindsight-client-0.9.2.tgz) | 285.8 KiB | `native/unknown` |
 | [vectorize-io-hindsight-control-plane-0.9.2.tgz](https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/vectorize-io-hindsight-control-plane-0.9.2.tgz) | 11.4 MiB | `native/unknown` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 23,395 · **Forks**: 1,726 · **Open issues**: 1,059 · **Contributors**: 232
-
-## Totals (cumulative)
-
-- **Releases**: 68 · **Merged PRs**: 2414 · **Open PRs**: 32 · **Closed issues**: 1014 · **Open issues**: 45 · **Commits**: 2955
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 435 | 32 | 215 | 29 | 439 |
-| 90d | 2026-06-12 | 8 | 1034 | 32 | 548 | 40 | 1167 |
-| 360d | 2025-09-15 | 68 | 2414 | 32 | 1014 | 45 | 2945 |
-
-## Code size
-
-Total: **824,205** lines of code across **2720** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 394,819 | 31,541 | 73,929 | 1729 |
-| Json | 233,529 | 0 | 0 | 125 |
-| TypeScript | 66,434 | 17,985 | 8,179 | 519 |
-| Go | 50,902 | 11,442 | 12,347 | 230 |
-| Tsx | 31,520 | 2,053 | 2,247 | 117 |
+Reported by **6** distros on [repology.org](https://repology.org/project/hindsight). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -100,4 +107,4 @@ Install metadata for hindsight lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:03:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:23:40Z._
