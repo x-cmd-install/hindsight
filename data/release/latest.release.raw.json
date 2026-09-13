@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10122,
       "digest": "sha256:c8a7eb0a27bcc38463a144bea9716897c1cce281ba98d49838f449e75098e257",
-      "download_count": 54,
+      "download_count": 58,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-0.9.2.tgz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3407240,
       "digest": "sha256:d6866ee47e958a28d200cb70f2014e4963793148a3f02e3817529cfc4ce29c64",
-      "download_count": 57,
+      "download_count": 63,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2775344,
       "digest": "sha256:c3a6800eccea0289c4f41ea759d1e661fc3267704fb71a4cfe57783abcf77867",
-      "download_count": 535,
+      "download_count": 558,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3994192,
       "digest": "sha256:463ecf45d2582b0ba966429b0c755969b6e57493ba8b7a8b60c56e95d020aa58",
-      "download_count": 1610,
+      "download_count": 1683,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3355864,
       "digest": "sha256:5f11e3370ae78ae4f6419ad800e90d9f06737f5e8ebbf6c5a574d6d9ed139faa",
-      "download_count": 75,
+      "download_count": 81,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13702,
       "digest": "sha256:cd32e87a6859922676a52c8b6d98ae0652cedecdd3a901d29e659e521613144d",
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_all-0.9.2-py3-none-any.whl"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9637,
       "digest": "sha256:89052711ec7fdc34938ff3bcbf3964b8cb6e1ec689c6ac3f553bbe7ede83dfa4",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_all-0.9.2.tar.gz.publish.attestation"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2586,
       "digest": "sha256:69e8bbcd7c17fd1f9650bbfa9222706ca332df36520f754040840c21b66a0d4c",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_all_slim-0.9.2-py3-none-any.whl"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2513,
       "digest": "sha256:a27d8c1b696225bfe3fa4fbe0a5548074ea8e334fd1b92215e452618fa00b3e3",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_all_slim-0.9.2.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4078,
       "digest": "sha256:9fb693ecd58bf86b327e77c40d539b1576955a5fe1cf98ec29af6402455ab6eb",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_api-0.9.2-py3-none-any.whl"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1606165,
       "digest": "sha256:2e0751f66d4699613cba7c03e9ea6e7112a37f5265a608f343f15fbb7413af7e",
-      "download_count": 49,
+      "download_count": 51,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_api_slim-0.9.2-py3-none-any.whl"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 9692,
       "digest": "sha256:b441bc295e51bd1c2fcf2ca40333c4dd195e8c973bf52f3a39c66a86e76ec896",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_api_slim-0.9.2-py3-none-any.whl.publish.attestation"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 9633,
       "digest": "sha256:fbd2733495e81b49674a86a19e93d02aa4379abe621326159fcd4c766ba0a793",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_api_slim-0.9.2.tar.gz.publish.attestation"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 358546,
       "digest": "sha256:31d26d116a07da5203bc913c5ed017de95d875edd5e295afad3c05373665ff6b",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_client-0.9.2-py3-none-any.whl"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 9547,
       "digest": "sha256:dd557147cef6652ce4e5a18ee5c51485dcf375d7ef3e3f4ef299d619bd97167a",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_client-0.9.2.tar.gz.publish.attestation"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 826366,
       "digest": "sha256:3c50fe2a31cfef74a2e9a6f833bcafe112feb4bda60f6d35923e4e36981ce7ec",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_embed-0.9.2-py3-none-any.whl"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 1075,
       "digest": "sha256:01fde0bedf83bdc185065d7af524a61690efe576a67f922eaff3a1280c17b63a",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/LICENSE"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 354195,
       "digest": "sha256:be401a6f5c9c482c089b15eb9acde286d4d5bcc0d9ebb3c83e2a06727936706e",
-      "download_count": 51,
+      "download_count": 52,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/THIRD_PARTY_LICENSES.txt"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 10207,
       "digest": "sha256:8ff8fd926e4a3894e171e11f123ec42621bb63f49e4c644e4c62a10694360aac",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/vectorize-io-hindsight-all-0.9.2.tgz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 292645,
       "digest": "sha256:a5efa2fc81cdc2a2564769ff31ff451d0c9b4ece3cba965ca90722e72a918059",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/vectorize-io-hindsight-client-0.9.2.tgz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 11939474,
       "digest": "sha256:954d254aa1ec9c6d145dcb2afe3ec2d70a3c275d5aad05b9ea684b49323a8b78",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/vectorize-io-hindsight-control-plane-0.9.2.tgz"
@@ -1266,8 +1266,8 @@
   "body": "## What's Changed\n* Stop whole-schema claim test fixtures deleting other xdist workers' operations by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3469\n* docs: changelog and blog post for v0.9.1 by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3438\n* docs: rework the topbar, page chrome and skill installer by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3495\n* docs: specify Claude Sonnet benchmark version by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3468\n* fix(retain): enqueue relink victims before delta chunk deletion by @koriyoshi2041 in https://github.com/vectorize-io/hindsight/pull/3420\n* fix(db): keep the DSN's application_name across pool reuse (blank pg_stat_activity behind pgbouncer) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3491\n* fix(retain): entity postings and witness coverage inside a write-group by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3497\n* fix(recall): keep the most selective terms for native BM25 long queries by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3498\n* perf(worker): one pooled connection per poll cycle, one statement of session setup by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3501\n* feat(coding-agents): DeepSeek Harness (dsh) support by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3504\n* blog: Give DeepSeek Harness a Memory of Your Codebase by @benfrank241 in https://github.com/vectorize-io/hindsight/pull/3507\n* fix(api): batch the retention sweep so it stops stalling foreground queries by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3539\n* fix(mental-models): last_refreshed_at records the refresh, not the source watermark by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3538\n* fix(coding-agents): start the local daemon for plugin harnesses too by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3542\n* fix(maintenance): skip a schema under concurrent DDL instead of deadlocking by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3543\n* fix(ci): authenticate Hermes compatibility clone by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3536\n* fix(coding-agents): stop forcing a 300s idle timeout on the shared daemon by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3544\n* fix(tests): stop the LLM judge mistaking context for the response by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3546\n* fix(engine): stamp memory_units.updated_at on the writes that change a memory (#3490) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3502\n* fix: disable automatic cache affinity for Azure OpenAI by @koriyoshi2041 in https://github.com/vectorize-io/hindsight/pull/3521\n* docs(recall): say that the created_after/created_before window filters updated_at by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3551\n* perf(maintenance): make the cross-tenant sweeps proportionate to tenant count by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3552\n* fix: report total on the mental-model and directive list endpoints by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3548\n* blog: 20,000 Stars — How Hindsight Got Here, Version by Version by @benfrank241 in https://github.com/vectorize-io/hindsight/pull/3503\n* fix(knowledge-base): patch a page's trigger instead of replacing it, on create and update by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3549\n* fix(mental-models): keep at most one queued refresh per model (#3487) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3550\n* feat(coding-agents): make the knowledge-page refresh trigger configurable by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3545\n* fix(coding-agents): scope knowledge pages to the repository they are about by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3571\n* fix(deps): bump google-genai past the eu/us multi-region 404 fix by @ferrastas in https://github.com/vectorize-io/hindsight/pull/3568\n* fix: use ASCII boundaries for memory defense patterns by @oldnicke in https://github.com/vectorize-io/hindsight/pull/3569\n* fix(coding-agents): pin the bank to where the session started in a non-git tree by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3573\n* fix(coding-agents): consolidate one set of observations per bank by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3575\n* feat(knowledge-base): expose a page's refresh trigger on the tree by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3572\n* feat(embeddings): asymmetric query/passage prefixes for text-in providers by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3570\n* fix(engine): drop null metadata values at retain and recall (#3209) by @NovaLux12 in https://github.com/vectorize-io/hindsight/pull/3531\n* fix(consolidation): keep source dates when observations merge by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3500\n* fix(embed): harden daemon and UI lifecycle (#3099, #3100, #3517, #3520, #3527) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3585\n* fix(memory): add resolve_entities flag to update_memory and retain by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3576\n* fix(api): paginate the bank list by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3586\n* fix(recall): keep the observation graph arm out of a nested-loop plan (#3510) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3588\n* fix(db): earn per-bank vector indexes by size instead of creating three per bank (#3485) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3561\n* test: assert memory state via the engine read API, not raw SQL by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3591\n* fix(recall): make the recall budget reach the vector index by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3541\n* fix(coding-agents): let hindsight_reflect wait as long as it is configured to (#3590) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3592\n* fix(coding-agents): timestamp the aggregated git-log document so its facts get occurrence dates (#3602) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3605\n* docs(readme): track hindsight-client downloads, cover the missing concepts by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3608\n* fix(coding-agents): keep a long-lived host's credential live, and say which one it used (#3600) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3606\n* fix(coding-agents): honor retainSessions in the hook harnesses (#3596) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3607\n* feat(mcp): expose knowledge-base CRUD as native MCP tools by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3611\n* fix(embed): inherit unset LLM settings instead of overwriting them (#3253) by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3359\n* fix(knowledge): cast the mental_models.name bind for vchord writes by @valda in https://github.com/vectorize-io/hindsight/pull/3615\n* fix(coding-agents): name the calling harness in every MCP registration by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3612\n* fix(knowledge-base): answer page staleness per scope, not from the bank watermark (#3291) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3589\n* fix: preserve Voyage asymmetric embedding semantics by @Tosko4 in https://github.com/vectorize-io/hindsight/pull/3515\n* fix(cli): suppress ANSI color and spinner when output is not a TTY by @yossiovadia in https://github.com/vectorize-io/hindsight/pull/3598\n* fix(coding-agents): recapture an initiative when the plan changes (#3616) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3617\n* Send free-form Ollama calls to the API that honours num_ctx by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3620\n* chore(deps): close every open medium/high Dependabot alert by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3624\n* feat(mental-models): record what a refresh did on the operation itself by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3609\n* fix(retain): drop silent getattr config defaults so a wrong config fails loudly by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3610\n* fix(mental-models): unsay facts a page cites that no longer exist (#3475) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3618\n* chore(clients): regenerate the Go client lockfile for testify 1.12.1 by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3631\n* fix(coding-agents): inherit opt-in across worktrees (#3471) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3627\n* chore(clients): re-sync the Go client's go.mod/go.sum by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3632\n* fix(observability): trace the worker process and join the caller's trace by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3625\n* Add GitHub Copilot subscription LLM provider by @dudujuju828 in https://github.com/vectorize-io/hindsight/pull/3597\n* chore(clients): re-export the two mental-model types the TS barrel is missing by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3635\n* fix(openclaw): inject [doc:<document_id>] provenance into auto-recall memories by @xiaoxiaoHe-E in https://github.com/vectorize-io/hindsight/pull/3583\n* fix(coding-agents): answer tools/list when disabled (#3537) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3626\n* feat(mental-models): a minimum interval between automatic refreshes (#3480) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3621\n* fix(memory-defense): fail the retain on a malformed policy instead of skipping screening by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3636\n* docs(api): correct recall fact type descriptions by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3547\n* fix(scripts): preserve go client go.mod/go.sum across regeneration by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3540\n* feat(control-plane): show per-model staleness, and say it the same way everywhere by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3643\n* fix(llm): forward consolidation temperature by @lusoris in https://github.com/vectorize-io/hindsight/pull/3511\n* engine: serve the addressed document/chunk/entity reads from the store too by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3560\n* blog: Give Every Hermes Bot Its Own Memory by @benfrank241 in https://github.com/vectorize-io/hindsight/pull/3648\n* retain: run delta for a store-owned bank, fenced by the store's own compare-and-set by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3650\n* fix(openclaw): strip operator-configured display-name prefix from recall and retain by @chethanuk in https://github.com/vectorize-io/hindsight/pull/3120\n* fix(db): make min_rows=0 mean \"off\", and stop counting rows on every write by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3638\n* fix(openclaw): make queued retains idempotent by @r266-tech in https://github.com/vectorize-io/hindsight/pull/3143\n* fix(config): validate and persist bank config as one serialized unit (#3037) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3639\n* fix(ci): give the Windows process probe a real deadline, and close the trace-recorder leak by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3661\n* fix(retain): honour the retain strict-schema flag in the batch path by @kamilfurtak in https://github.com/vectorize-io/hindsight/pull/3656\n* feat(llm): route batch retain through a batch-capable multi-LLM member by @handnewb in https://github.com/vectorize-io/hindsight/pull/3649\n* fix(coding-agents): let knowledge pages see the observations they ask for, and stop tagging initiative markers with a page id by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3664\n* fix(cli): exit non-zero when configure receives invalid API URL by @Alan5168 in https://github.com/vectorize-io/hindsight/pull/3356\n* fix(mcp): pass the retain strategy to the worker by @fhiltscher in https://github.com/vectorize-io/hindsight/pull/3296\n* Memory backend: store-owned delta retain, bank-list times, and generic comments by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3660\n* fix(mental-models): store delta documents as verbatim markdown blocks (#3361, #3273) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3622\n* fix(kb): serialize knowledge tree writes by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3358\n* fix(query-analyzer): reject lone four-digit integers as years (#3250) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3665\n* fix(tests): unbreak main — post-#3649 batch stubs and a leaked tracing global by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3668\n* fix(retain): delete the removed chunks when a re-retain only removes content by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3676\n* comments updated by @coder-with-ai in https://github.com/vectorize-io/hindsight/pull/3679\n* blog: Introducing Hindsight Academy — learn agent memory by doing by @benfrank241 in https://github.com/vectorize-io/hindsight/pull/3682\n* fix(tests): run the maintenance-routine e2e against the current routine body by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3680\n* fix(control-plane): keep the memories search open when the query is cleared by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3697\n* feat(recall): let callers supply the temporal window instead of parsing it by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3678\n* fix(retain): treat provider content-policy refusals as permanent (#3690) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3698\n* fix(llm): bind batch recovery to the account that submitted the batch by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3699\n* blog: Give Your elizaOS Agent a Long-Term Memory by @benfrank241 in https://github.com/vectorize-io/hindsight/pull/3705\n* docs: use the elizaOS brand mark for the integration icon by @benfrank241 in https://github.com/vectorize-io/hindsight/pull/3707\n* fix(embed): use UTF-8 for profile env files by @koriyoshi2041 in https://github.com/vectorize-io/hindsight/pull/3748\n* docs(coding-agents): generate the companion skill from the README (#3735) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3753\n* fix(openclaw): probe append capability in local-daemon mode (#3686) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3706\n* docs(coding-agents): add Devin CLI to harness list in README intro (#3721) by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3738\n* fix(coding-agents): hide Windows child processes by @koriyoshi2041 in https://github.com/vectorize-io/hindsight/pull/3736\n* fix(windows): hide daemon subprocess windows by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3743\n* fix(llamacpp): report a missing llama.cpp instead of endless connection errors by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3758\n* fix(recall): skip over-budget facts instead of stopping, and never answer a match with nothing (#3688) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3704\n* fix(coding-agents): tolerate hidden page triggers by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3742\n* fix(integrations): resolve bare-hub project names by @Sanderhoff-alt in https://github.com/vectorize-io/hindsight/pull/3741\n* fix(reflect): fail when a run produces no answer instead of storing a placeholder (#2959) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3761\n* fix(retain): retry and fail loudly on schema-drifted fact extraction (#3708) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3760\n* fix(coding-agents): find Claude sessions for underscore paths by @pstanton237 in https://github.com/vectorize-io/hindsight/pull/3732\n* fix(entities): don't merge a name onto an existing entity on history alone, + a resolution eval by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3752\n* fix(knowledge-pages): move a page's scope onto its mental model, and stop trigger patches resetting it (#3687) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3755\n* fix(coding-agents): check knowledge pages before reflecting by @altaywtf in https://github.com/vectorize-io/hindsight/pull/3702\n* fix(db): log the exception class when a DB error has no message by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3762\n* fix(worker): serialise consolidation claims per bank within a batch (#3700) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3764\n* fix(retain): bound retain's memory by a budget instead of by the document (#3756) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3763\n* test(retain): cover the retain.completed outbox across a split batch by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3767\n* perf(retain): stream the sub-batch split instead of collecting it (#3756) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3770\n* blog: Knowledge Graphs vs. Vector Search for Agent Memory by @benfrank241 in https://github.com/vectorize-io/hindsight/pull/3766\n* fix(consolidation): classify batch LLM failures instead of retrying everything (#3684) by @nicoloboschi in https://github.com/vectorize-io/hindsight/pull/3783\n\n## New Contributors\n* @ferrastas made their first contribution in https://github.com/vectorize-io/hindsight/pull/3568\n* @NovaLux12 made their first contribution in https://github.com/vectorize-io/hindsight/pull/3531\n* @yossiovadia made their first contribution in https://github.com/vectorize-io/hindsight/pull/3598\n* @dudujuju828 made their first contribution in https://github.com/vectorize-io/hindsight/pull/3597\n* @xiaoxiaoHe-E made their first contribution in https://github.com/vectorize-io/hindsight/pull/3583\n* @lusoris made their first contribution in https://github.com/vectorize-io/hindsight/pull/3511\n* @kamilfurtak made their first contribution in https://github.com/vectorize-io/hindsight/pull/3656\n* @fhiltscher made their first contribution in https://github.com/vectorize-io/hindsight/pull/3296\n* @coder-with-ai made their first contribution in https://github.com/vectorize-io/hindsight/pull/3679\n* @pstanton237 made their first contribution in https://github.com/vectorize-io/hindsight/pull/3732\n* @altaywtf made their first contribution in https://github.com/vectorize-io/hindsight/pull/3702\n\n**Full Changelog**: https://github.com/vectorize-io/hindsight/compare/v0.9.1...v0.9.2",
   "reactions": {
     "url": "https://api.github.com/repos/vectorize-io/hindsight/releases/376350780/reactions",
-    "total_count": 5,
-    "+1": 5,
+    "total_count": 6,
+    "+1": 6,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
