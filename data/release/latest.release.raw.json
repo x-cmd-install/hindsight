@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3407240,
       "digest": "sha256:d6866ee47e958a28d200cb70f2014e4963793148a3f02e3817529cfc4ce29c64",
-      "download_count": 63,
+      "download_count": 66,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2775344,
       "digest": "sha256:c3a6800eccea0289c4f41ea759d1e661fc3267704fb71a4cfe57783abcf77867",
-      "download_count": 558,
+      "download_count": 578,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3994192,
       "digest": "sha256:463ecf45d2582b0ba966429b0c755969b6e57493ba8b7a8b60c56e95d020aa58",
-      "download_count": 1683,
+      "download_count": 1743,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3355864,
       "digest": "sha256:5f11e3370ae78ae4f6419ad800e90d9f06737f5e8ebbf6c5a574d6d9ed139faa",
-      "download_count": 81,
+      "download_count": 87,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13702,
       "digest": "sha256:cd32e87a6859922676a52c8b6d98ae0652cedecdd3a901d29e659e521613144d",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_all-0.9.2-py3-none-any.whl"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 9700,
       "digest": "sha256:2beeec38994db5c7d178f5c8b761bb1ef37cdf578293b884496aef9a082ef214",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_all-0.9.2-py3-none-any.whl.publish.attestation"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2586,
       "digest": "sha256:69e8bbcd7c17fd1f9650bbfa9222706ca332df36520f754040840c21b66a0d4c",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_all_slim-0.9.2-py3-none-any.whl"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2513,
       "digest": "sha256:a27d8c1b696225bfe3fa4fbe0a5548074ea8e334fd1b92215e452618fa00b3e3",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_all_slim-0.9.2.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4078,
       "digest": "sha256:9fb693ecd58bf86b327e77c40d539b1576955a5fe1cf98ec29af6402455ab6eb",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_api-0.9.2-py3-none-any.whl"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1606165,
       "digest": "sha256:2e0751f66d4699613cba7c03e9ea6e7112a37f5265a608f343f15fbb7413af7e",
-      "download_count": 51,
+      "download_count": 54,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_api_slim-0.9.2-py3-none-any.whl"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 9692,
       "digest": "sha256:b441bc295e51bd1c2fcf2ca40333c4dd195e8c973bf52f3a39c66a86e76ec896",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_api_slim-0.9.2-py3-none-any.whl.publish.attestation"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 358546,
       "digest": "sha256:31d26d116a07da5203bc913c5ed017de95d875edd5e295afad3c05373665ff6b",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_client-0.9.2-py3-none-any.whl"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 826366,
       "digest": "sha256:3c50fe2a31cfef74a2e9a6f833bcafe112feb4bda60f6d35923e4e36981ce7ec",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_embed-0.9.2-py3-none-any.whl"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 9610,
       "digest": "sha256:2e79d4d9f1aa1b8b572a9187ff7276c0adc1fbfa96f6a512c007db554f18de4b",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_embed-0.9.2-py3-none-any.whl.publish.attestation"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 699699,
       "digest": "sha256:87bfd3aa66631221335cef98ae9af792eaeb36fbaa359d750d7db28ce8d48b2a",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/hindsight_embed-0.9.2.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 1075,
       "digest": "sha256:01fde0bedf83bdc185065d7af524a61690efe576a67f922eaff3a1280c17b63a",
-      "download_count": 48,
+      "download_count": 50,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/LICENSE"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 292645,
       "digest": "sha256:a5efa2fc81cdc2a2564769ff31ff451d0c9b4ece3cba965ca90722e72a918059",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/vectorize-io-hindsight-client-0.9.2.tgz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 11939474,
       "digest": "sha256:954d254aa1ec9c6d145dcb2afe3ec2d70a3c275d5aad05b9ea684b49323a8b78",
-      "download_count": 13,
+      "download_count": 79,
       "created_at": "2026-08-25T11:26:47Z",
       "updated_at": "2026-08-25T11:26:47Z",
       "browser_download_url": "https://github.com/vectorize-io/hindsight/releases/download/v0.9.2/vectorize-io-hindsight-control-plane-0.9.2.tgz"
