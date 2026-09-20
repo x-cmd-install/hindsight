@@ -4,7 +4,7 @@
 
 Hindsight: Agent Memory That Learns
 
-![hindsight](https://repo.x-cmd.io/hindsight.svg)
+[![x-cmd/install — hindsight Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hindsight.svg)](https://x-cmd.com/install/hindsight)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install hindsight
 
 ## Code insight
 
-Total: **780,249** lines of code across **2807** files in the top 5 languages.
+Total: **788,940** lines of code across **2846** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 406,486 | 32,465 | 76,338 | 1793 |
-| Json | 171,092 | 0 | 0 | 125 |
-| TypeScript | 71,216 | 18,961 | 8,598 | 537 |
-| Go | 51,510 | 11,565 | 12,467 | 232 |
-| Tsx | 31,885 | 2,125 | 2,258 | 120 |
+| Python | 412,889 | 33,029 | 77,329 | 1824 |
+| Json | 171,950 | 0 | 0 | 125 |
+| TypeScript | 71,681 | 19,247 | 8,663 | 543 |
+| Go | 51,776 | 11,626 | 12,514 | 232 |
+| Tsx | 32,409 | 2,179 | 2,276 | 122 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **780,249** lines of code across **2807** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-09-14)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 34
 
 ## Popularity
 
-- **Stars**: 23,867 · **Forks**: 1,772 · **Open issues**: 1,120 · **Contributors**: 242
+- **Stars**: 23,970 · **Forks**: 1,783 · **Open issues**: 1,134 · **Contributors**: 242
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 2520 · **Open PRs**: 31 · **Closed issues**: 1071 · **Open issues**: 49 · **Commits**: 3068
+- **Releases**: 69 · **Merged PRs**: 2553 · **Open PRs**: 44 · **Closed issues**: 1080 · **Open issues**: 54 · **Commits**: 3102
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 411 | 31 | 210 | 31 | 443 |
-| last60d | 2026-07-20 | 6 | 797 | 31 | 443 | 41 | 877 |
-| 90d | 2026-06-20 | 7 | 1049 | 31 | 583 | 45 | 1182 |
-| last180d | 2026-03-22 | 27 | 2050 | 31 | 970 | 48 | 2347 |
-| 360d | 2025-09-23 | 69 | 2520 | 31 | 1071 | 49 | 3057 |
-| last720d | 2024-09-28 | 69 | 2520 | 31 | 1071 | 49 | 3068 |
+| 30d | 2026-08-21 | 2 | 424 | 44 | 201 | 36 | 477 |
+| last60d | 2026-07-22 | 6 | 794 | 44 | 433 | 46 | 911 |
+| 90d | 2026-06-22 | 7 | 1066 | 44 | 587 | 50 | 1216 |
+| last180d | 2026-03-24 | 27 | 2065 | 44 | 974 | 53 | 2381 |
+| 360d | 2025-09-25 | 69 | 2553 | 44 | 1080 | 54 | 3091 |
+| last720d | 2024-09-30 | 69 | 2553 | 44 | 1080 | 54 | 3102 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for hindsight lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:32:07Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:46:32Z._
