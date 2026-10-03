@@ -14,12 +14,12 @@ x install hindsight
 
 ## Code insight
 
-Total: **844,395** lines of code across **3036** files in the top 5 languages.
+Total: **845,354** lines of code across **3047** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 442,695 | 35,486 | 82,794 | 1933 |
-| Json | 176,394 | 0 | 0 | 126 |
+| Python | 443,457 | 35,540 | 82,986 | 1943 |
+| Json | 176,411 | 0 | 0 | 127 |
 | TypeScript | 82,897 | 21,340 | 9,524 | 595 |
 | Go | 55,098 | 12,388 | 13,295 | 245 |
 | Tsx | 35,387 | 2,614 | 2,471 | 137 |
@@ -33,27 +33,27 @@ Total: **844,395** lines of code across **3036** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.2` (2026-09-29)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-02
 - **Assets in release**: 34
 
 ## Popularity
 
-- **Stars**: 44,393 · **Forks**: 5,862 · **Open issues**: 1,293 · **Contributors**: 267
+- **Stars**: 44,770 · **Forks**: 5,871 · **Open issues**: 1,307 · **Contributors**: 268
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2778 · **Open PRs**: 122 · **Closed issues**: 1184 · **Open issues**: 109 · **Commits**: 3343
+- **Releases**: 71 · **Merged PRs**: 2816 · **Open PRs**: 154 · **Closed issues**: 1184 · **Open issues**: 123 · **Commits**: 3381
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 3 | 481 | 121 | 211 | 88 | 512 |
-| last60d | 2026-08-03 | 6 | 904 | 122 | 464 | 98 | 991 |
-| 90d | 2026-07-04 | 8 | 1185 | 122 | 635 | 102 | 1326 |
-| last180d | 2026-04-05 | 26 | 2164 | 122 | 1032 | 108 | 2464 |
-| 360d | 2025-10-07 | 71 | 2778 | 122 | 1184 | 109 | 3331 |
-| last720d | 2024-10-12 | 71 | 2778 | 122 | 1184 | 109 | 3343 |
+| 30d | 2026-09-03 | 3 | 499 | 150 | 202 | 101 | 550 |
+| last60d | 2026-08-04 | 6 | 931 | 154 | 460 | 112 | 1029 |
+| 90d | 2026-07-05 | 8 | 1218 | 154 | 633 | 116 | 1364 |
+| last180d | 2026-04-06 | 26 | 2197 | 154 | 1024 | 122 | 2502 |
+| 360d | 2025-10-08 | 71 | 2816 | 154 | 1184 | 123 | 3369 |
+| last720d | 2024-10-13 | 71 | 2816 | 154 | 1184 | 123 | 3381 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for hindsight lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:25:46Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:10:23Z._
