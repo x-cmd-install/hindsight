@@ -14,7 +14,7 @@ x install hindsight
 
 ## Code insight
 
-Total: **883,392** lines of code across **3091** files in the top 5 languages.
+Total: **883,397** lines of code across **3091** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **883,392** lines of code across **3091** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.0` (2026-10-21)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 - **Assets in release**: 34
 
 ## Popularity
 
-- **Stars**: 53,190 · **Forks**: 6,232 · **Open issues**: 1,683 · **Contributors**: 285
+- **Stars**: 53,486 · **Forks**: 6,238 · **Open issues**: 1,699 · **Contributors**: 285
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 3320 · **Open PRs**: 7 · **Closed issues**: 1562 · **Open issues**: 121 · **Commits**: 3923
+- **Releases**: 74 · **Merged PRs**: 3321 · **Open PRs**: 7 · **Closed issues**: 1562 · **Open issues**: 137 · **Commits**: 3924
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 4 | 643 | 3 | 379 | 107 | 743 |
-| last60d | 2026-08-25 | 7 | 1156 | 7 | 644 | 112 | 1253 |
-| 90d | 2026-07-26 | 10 | 1532 | 7 | 893 | 115 | 1689 |
-| last180d | 2026-04-27 | 24 | 2471 | 7 | 1299 | 120 | 2774 |
-| 360d | 2025-10-29 | 74 | 3319 | 7 | 1562 | 121 | 3910 |
-| last720d | 2024-11-03 | 74 | 3319 | 7 | 1562 | 121 | 3923 |
+| 30d | 2026-09-25 | 4 | 617 | 3 | 369 | 123 | 744 |
+| last60d | 2026-08-26 | 6 | 1144 | 7 | 637 | 128 | 1254 |
+| 90d | 2026-07-27 | 10 | 1519 | 7 | 888 | 131 | 1690 |
+| last180d | 2026-04-28 | 24 | 2459 | 7 | 1296 | 136 | 2775 |
+| 360d | 2025-10-30 | 74 | 3320 | 7 | 1562 | 137 | 3911 |
+| last720d | 2024-11-04 | 74 | 3320 | 7 | 1562 | 137 | 3924 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for hindsight lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:25:50Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:28:56Z._
