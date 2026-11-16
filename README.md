@@ -38,22 +38,22 @@ Total: **951,968** lines of code across **3280** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 61,096 · **Forks**: 7,367 · **Open issues**: 1,973 · **Contributors**: 288
+- **Stars**: 61,254 · **Forks**: 7,369 · **Open issues**: 1,981 · **Contributors**: 288
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 3520 · **Open PRs**: 8 · **Closed issues**: 1746 · **Open issues**: 227 · **Commits**: 4131
+- **Releases**: 76 · **Merged PRs**: 3520 · **Open PRs**: 8 · **Closed issues**: 1746 · **Open issues**: 235 · **Commits**: 4131
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 3 | 414 | 4 | 251 | 174 | 483 |
-| last60d | 2026-09-16 | 7 | 1004 | 4 | 649 | 215 | 1101 |
-| 90d | 2026-08-17 | 9 | 1458 | 8 | 900 | 219 | 1595 |
-| last180d | 2026-05-19 | 21 | 2476 | 8 | 1377 | 225 | 2743 |
-| 360d | 2025-11-20 | 76 | 3519 | 8 | 1746 | 227 | 4066 |
-| last720d | 2024-11-25 | 76 | 3519 | 8 | 1746 | 227 | 4131 |
+| 30d | 2026-10-17 | 3 | 413 | 4 | 239 | 178 | 260 |
+| last60d | 2026-09-17 | 7 | 984 | 4 | 643 | 223 | 998 |
+| 90d | 2026-08-18 | 9 | 1441 | 8 | 890 | 226 | 1494 |
+| last180d | 2026-05-20 | 21 | 2468 | 8 | 1373 | 233 | 2683 |
+| 360d | 2025-11-21 | 76 | 3519 | 8 | 1746 | 235 | 4055 |
+| last720d | 2024-11-26 | 76 | 3519 | 8 | 1746 | 235 | 4131 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for hindsight lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:12:18Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:10:36Z._
