@@ -14,13 +14,13 @@ x install hindsight
 
 ## Code insight
 
-Total: **935,427** lines of code across **3280** files in the top 5 languages.
+Total: **937,838** lines of code across **3290** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 493,380 | 39,866 | 91,159 | 2095 |
-| Json | 198,091 | 0 | 0 | 136 |
-| TypeScript | 84,632 | 22,930 | 9,829 | 613 |
+| Python | 495,289 | 40,059 | 91,575 | 2104 |
+| Json | 198,269 | 0 | 0 | 137 |
+| TypeScript | 84,955 | 22,997 | 9,857 | 613 |
 | Go | 59,689 | 13,453 | 14,335 | 262 |
 | Tsx | 44,850 | 3,256 | 3,025 | 174 |
 
@@ -32,68 +32,68 @@ Total: **935,427** lines of code across **3280** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.2.1` (2026-11-10)
-- **Last commit**: 2026-11-18
+- **Latest**: `v1.2.3` (2026-11-19)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 61,916 · **Forks**: 7,386 · **Open issues**: 2,024 · **Contributors**: 288
+- **Stars**: 62,086 · **Forks**: 7,394 · **Open issues**: 2,050 · **Contributors**: 290
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 3563 · **Open PRs**: 9 · **Closed issues**: 1782 · **Open issues**: 242 · **Commits**: 4173
+- **Releases**: 78 · **Merged PRs**: 3592 · **Open PRs**: 16 · **Closed issues**: 1830 · **Open issues**: 220 · **Commits**: 4205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 3 | 326 | 4 | 226 | 175 | 302 |
-| last60d | 2026-09-20 | 7 | 981 | 5 | 655 | 230 | 1040 |
-| 90d | 2026-08-21 | 9 | 1433 | 9 | 893 | 233 | 1536 |
-| last180d | 2026-05-23 | 21 | 2485 | 9 | 1402 | 240 | 2725 |
-| 360d | 2025-11-24 | 76 | 3561 | 9 | 1782 | 242 | 4097 |
-| last720d | 2024-11-29 | 76 | 3562 | 9 | 1782 | 242 | 4173 |
+| 30d | 2026-10-21 | 5 | 339 | 10 | 255 | 156 | 334 |
+| last60d | 2026-09-21 | 9 | 1000 | 12 | 687 | 208 | 1072 |
+| 90d | 2026-08-22 | 11 | 1461 | 16 | 931 | 211 | 1568 |
+| last180d | 2026-05-24 | 23 | 2512 | 16 | 1444 | 218 | 2757 |
+| 360d | 2025-11-25 | 78 | 3589 | 16 | 1830 | 220 | 4129 |
+| last720d | 2024-11-30 | 78 | 3591 | 16 | 1830 | 220 | 4205 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [hindsight-1.2.1.tgz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight-1.2.1.tgz) | 15.1 KiB | `native/unknown` |
-| [hindsight-darwin-amd64](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight-darwin-amd64) | 3.5 MiB | `native/darwin/x64` |
-| [hindsight-darwin-arm64](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight-darwin-arm64) | 2.8 MiB | `native/darwin/arm64` |
-| [hindsight-linux-amd64](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight-linux-amd64) | 4.1 MiB | `native/linux/x64` |
-| [hindsight-linux-arm64](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight-linux-arm64) | 3.4 MiB | `native/linux/arm64` |
-| [hindsight-windows-amd64.exe](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight-windows-amd64.exe) | 3.5 MiB | `native/win/x64` |
-| [hindsight_all-1.2.1-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_all-1.2.1-py3-none-any.whl) | 13.7 KiB | `other` |
-| [hindsight_all-1.2.1-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_all-1.2.1-py3-none-any.whl.publish.attestation) | 9.3 KiB | `other` |
-| [hindsight_all-1.2.1.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_all-1.2.1.tar.gz) | 21.4 KiB | `native/unknown` |
-| [hindsight_all-1.2.1.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_all-1.2.1.tar.gz.publish.attestation) | 9.3 KiB | `other` |
-| [hindsight_all_slim-1.2.1-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_all_slim-1.2.1-py3-none-any.whl) | 2.5 KiB | `other` |
-| [hindsight_all_slim-1.2.1-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_all_slim-1.2.1-py3-none-any.whl.publish.attestation) | 9.2 KiB | `other` |
-| [hindsight_all_slim-1.2.1.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_all_slim-1.2.1.tar.gz) | 2.4 KiB | `native/unknown` |
-| [hindsight_all_slim-1.2.1.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_all_slim-1.2.1.tar.gz.publish.attestation) | 9.3 KiB | `other` |
-| [hindsight_api-1.2.1-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_api-1.2.1-py3-none-any.whl) | 4.1 KiB | `other` |
-| [hindsight_api-1.2.1-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_api-1.2.1-py3-none-any.whl.publish.attestation) | 9.3 KiB | `other` |
-| [hindsight_api-1.2.1.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_api-1.2.1.tar.gz) | 3.8 KiB | `native/unknown` |
-| [hindsight_api-1.2.1.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_api-1.2.1.tar.gz.publish.attestation) | 9.2 KiB | `other` |
-| [hindsight_api_slim-1.2.1-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_api_slim-1.2.1-py3-none-any.whl) | 2.3 MiB | `other` |
-| [hindsight_api_slim-1.2.1-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_api_slim-1.2.1-py3-none-any.whl.publish.attestation) | 9.2 KiB | `other` |
-| [hindsight_api_slim-1.2.1.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_api_slim-1.2.1.tar.gz) | 2.1 MiB | `native/unknown` |
-| [hindsight_api_slim-1.2.1.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_api_slim-1.2.1.tar.gz.publish.attestation) | 9.2 KiB | `other` |
-| [hindsight_client-1.2.1-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_client-1.2.1-py3-none-any.whl) | 469.1 KiB | `other` |
-| [hindsight_client-1.2.1-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_client-1.2.1-py3-none-any.whl.publish.attestation) | 9.4 KiB | `other` |
-| [hindsight_client-1.2.1.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_client-1.2.1.tar.gz) | 218.7 KiB | `native/unknown` |
-| [hindsight_client-1.2.1.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_client-1.2.1.tar.gz.publish.attestation) | 9.3 KiB | `other` |
-| [hindsight_embed-1.2.1-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_embed-1.2.1-py3-none-any.whl) | 824.5 KiB | `other` |
-| [hindsight_embed-1.2.1-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_embed-1.2.1-py3-none-any.whl.publish.attestation) | 9.3 KiB | `other` |
-| [hindsight_embed-1.2.1.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_embed-1.2.1.tar.gz) | 712.2 KiB | `native/unknown` |
-| [hindsight_embed-1.2.1.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/hindsight_embed-1.2.1.tar.gz.publish.attestation) | 9.3 KiB | `other` |
-| [LICENSE](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/LICENSE) | 1.0 KiB | `other` |
-| [THIRD_PARTY_LICENSES.txt](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/THIRD_PARTY_LICENSES.txt) | 368.1 KiB | `other` |
-| [vectorize-io-hindsight-all-1.2.1.tgz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/vectorize-io-hindsight-all-1.2.1.tgz) | 10.0 KiB | `native/unknown` |
-| [vectorize-io-hindsight-client-1.2.1.tgz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/vectorize-io-hindsight-client-1.2.1.tgz) | 407.4 KiB | `native/unknown` |
-| [vectorize-io-hindsight-control-plane-1.2.1.tgz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.1/vectorize-io-hindsight-control-plane-1.2.1.tgz) | 25.2 MiB | `native/unknown` |
+| [hindsight-1.2.3.tgz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight-1.2.3.tgz) | 15.1 KiB | `native/unknown` |
+| [hindsight-darwin-amd64](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight-darwin-amd64) | 3.5 MiB | `native/darwin/x64` |
+| [hindsight-darwin-arm64](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight-darwin-arm64) | 2.9 MiB | `native/darwin/arm64` |
+| [hindsight-linux-amd64](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight-linux-amd64) | 4.1 MiB | `native/linux/x64` |
+| [hindsight-linux-arm64](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight-linux-arm64) | 3.4 MiB | `native/linux/arm64` |
+| [hindsight-windows-amd64.exe](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight-windows-amd64.exe) | 3.5 MiB | `native/win/x64` |
+| [hindsight_all-1.2.3-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_all-1.2.3-py3-none-any.whl) | 13.7 KiB | `other` |
+| [hindsight_all-1.2.3-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_all-1.2.3-py3-none-any.whl.publish.attestation) | 9.5 KiB | `other` |
+| [hindsight_all-1.2.3.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_all-1.2.3.tar.gz) | 21.4 KiB | `native/unknown` |
+| [hindsight_all-1.2.3.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_all-1.2.3.tar.gz.publish.attestation) | 9.6 KiB | `other` |
+| [hindsight_all_slim-1.2.3-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_all_slim-1.2.3-py3-none-any.whl) | 2.5 KiB | `other` |
+| [hindsight_all_slim-1.2.3-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_all_slim-1.2.3-py3-none-any.whl.publish.attestation) | 9.3 KiB | `other` |
+| [hindsight_all_slim-1.2.3.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_all_slim-1.2.3.tar.gz) | 2.4 KiB | `native/unknown` |
+| [hindsight_all_slim-1.2.3.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_all_slim-1.2.3.tar.gz.publish.attestation) | 9.6 KiB | `other` |
+| [hindsight_api-1.2.3-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_api-1.2.3-py3-none-any.whl) | 4.1 KiB | `other` |
+| [hindsight_api-1.2.3-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_api-1.2.3-py3-none-any.whl.publish.attestation) | 9.6 KiB | `other` |
+| [hindsight_api-1.2.3.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_api-1.2.3.tar.gz) | 3.8 KiB | `native/unknown` |
+| [hindsight_api-1.2.3.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_api-1.2.3.tar.gz.publish.attestation) | 9.6 KiB | `other` |
+| [hindsight_api_slim-1.2.3-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_api_slim-1.2.3-py3-none-any.whl) | 2.5 MiB | `other` |
+| [hindsight_api_slim-1.2.3-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_api_slim-1.2.3-py3-none-any.whl.publish.attestation) | 9.4 KiB | `other` |
+| [hindsight_api_slim-1.2.3.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_api_slim-1.2.3.tar.gz) | 2.2 MiB | `native/unknown` |
+| [hindsight_api_slim-1.2.3.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_api_slim-1.2.3.tar.gz.publish.attestation) | 9.5 KiB | `other` |
+| [hindsight_client-1.2.3-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_client-1.2.3-py3-none-any.whl) | 476.8 KiB | `other` |
+| [hindsight_client-1.2.3-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_client-1.2.3-py3-none-any.whl.publish.attestation) | 9.4 KiB | `other` |
+| [hindsight_client-1.2.3.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_client-1.2.3.tar.gz) | 222.5 KiB | `native/unknown` |
+| [hindsight_client-1.2.3.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_client-1.2.3.tar.gz.publish.attestation) | 9.5 KiB | `other` |
+| [hindsight_embed-1.2.3-py3-none-any.whl](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_embed-1.2.3-py3-none-any.whl) | 828.0 KiB | `other` |
+| [hindsight_embed-1.2.3-py3-none-any.whl.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_embed-1.2.3-py3-none-any.whl.publish.attestation) | 9.5 KiB | `other` |
+| [hindsight_embed-1.2.3.tar.gz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_embed-1.2.3.tar.gz) | 717.7 KiB | `native/unknown` |
+| [hindsight_embed-1.2.3.tar.gz.publish.attestation](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/hindsight_embed-1.2.3.tar.gz.publish.attestation) | 9.4 KiB | `other` |
+| [LICENSE](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/LICENSE) | 1.0 KiB | `other` |
+| [THIRD_PARTY_LICENSES.txt](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/THIRD_PARTY_LICENSES.txt) | 368.1 KiB | `other` |
+| [vectorize-io-hindsight-all-1.2.3.tgz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/vectorize-io-hindsight-all-1.2.3.tgz) | 10.0 KiB | `native/unknown` |
+| [vectorize-io-hindsight-client-1.2.3.tgz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/vectorize-io-hindsight-client-1.2.3.tgz) | 413.1 KiB | `native/unknown` |
+| [vectorize-io-hindsight-control-plane-1.2.3.tgz](https://github.com/vectorize-io/hindsight/releases/download/v1.2.3/vectorize-io-hindsight-control-plane-1.2.3.tgz) | 27.9 MiB | `native/unknown` |
 
 ## Distribution status
 
@@ -108,4 +108,4 @@ Install metadata for hindsight lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:14:37Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:09:46Z._
