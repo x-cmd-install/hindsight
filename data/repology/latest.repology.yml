@@ -1,18 +1,3 @@
-- repo: raspbian_testing
-  subrepo: main
-  srcname: hindsight
-  binnames:
-    - hindsight
-  visiblename: hindsight
-  version: 0.12.7
-  origversion: 0.12.7-1
-  status: outdated
-  maintainers:
-    - pkg-heka-maint@lists.alioth.debian.org
-    - hertzog@debian.org
-    - sathieu@debian.org
-  categories:
-    - misc
 - repo: aur
   srcname: hindsight
   binname: hindsight
@@ -28,7 +13,7 @@
 - repo: chocolatey
   binname: hindsight
   visiblename: Hindsight
-  version: 2026.6.0
+  version: 2026.11.0
   origversion: null
   status: untrusted
   summary: Web browser forensics for Google Chrome/Chromium
@@ -48,6 +33,21 @@
   categories:
     - misc
 - repo: raspbian_stable
+  subrepo: main
+  srcname: hindsight
+  binnames:
+    - hindsight
+  visiblename: hindsight
+  version: 0.12.7
+  origversion: 0.12.7-1
+  status: outdated
+  maintainers:
+    - pkg-heka-maint@lists.alioth.debian.org
+    - hertzog@debian.org
+    - sathieu@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
   subrepo: main
   srcname: hindsight
   binnames:
