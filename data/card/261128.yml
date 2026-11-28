@@ -1,0 +1,217 @@
+about:
+  description: "Hindsight: Agent Memory That Learns"
+  license: MIT
+  homepage: https://hindsight.vectorize.io/
+  head: c828c7e
+  archived: false
+  latestVersion: "v1.3.0"
+  latestRelease: "v1.3.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:36:44Z
+timeline:
+  created: 2025-10-30
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-24
+  lastRelease: 2026-11-24
+  lastPrerelease: 
+popularity:
+  star: 63900
+  watcher: 121
+  fork: 7415
+  release: 79
+  contributor: 290
+  pullRequest: 4702
+  issue: 2190
+language:
+  Python: 27752736
+  TypeScript: 6814832
+  MDX: 4417440
+  Rust: 656563
+  Shell: 398220
+  JavaScript: 225172
+  CSS: 186069
+  Go: 100222
+  HTML: 45817
+  Dockerfile: 38567
+  Go Template: 4986
+  Mako: 1150
+  Handlebars: 504
+totalBytes: 40642278
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 5
+    mergedPR: 371
+    openPR: 8
+    closedIssue: 314
+    openIssue: 110
+    commit: 391
+  last60d:
+    since: 2026-09-29
+    release: 9
+    mergedPR: 998
+    openPR: 10
+    closedIssue: 804
+    openIssue: 134
+    commit: 1070
+  last90d:
+    since: 2026-08-30
+    release: 11
+    mergedPR: 1548
+    openPR: 13
+    closedIssue: 1086
+    openIssue: 137
+    commit: 1679
+  last180d:
+    since: 2026-06-01
+    release: 22
+    mergedPR: 2545
+    openPR: 14
+    closedIssue: 1616
+    openIssue: 143
+    commit: 2799
+  last360d:
+    since: 2025-12-03
+    release: 79
+    mergedPR: 3743
+    openPR: 14
+    closedIssue: 2042
+    openIssue: 146
+    commit: 4267
+  last720d:
+    since: 2024-12-08
+    release: 79
+    mergedPR: 3750
+    openPR: 14
+    closedIssue: 2044
+    openIssue: 146
+    commit: 4371
+total:
+  release: 79
+  mergedPR: 3751
+  openPR: 14
+  closedIssue: 2044
+  openIssue: 146
+  commit: 4371
+---
+path: /home/runner/.x-repo/github.com/vectorize-io/hindsight
+collectedAt: 2026-11-28T07:37:34Z
+loc:
+  Python:
+    code: 516651
+    comments: 41356
+    blanks: 95048
+    files: 2186
+  Json:
+    code: 208190
+    comments: 0
+    blanks: 0
+    files: 141
+  TypeScript:
+    code: 93462
+    comments: 25384
+    blanks: 10640
+    files: 645
+  Go:
+    code: 68908
+    comments: 15430
+    blanks: 16499
+    files: 295
+  Tsx:
+    code: 46401
+    comments: 3385
+    blanks: 3117
+    files: 178
+  Yaml:
+    code: 20479
+    comments: 568
+    blanks: 243
+    files: 54
+  Rust:
+    code: 16487
+    comments: 616
+    blanks: 2200
+    files: 37
+  Sh:
+    code: 5727
+    comments: 2168
+    blanks: 1344
+    files: 75
+  Css:
+    code: 5256
+    comments: 651
+    blanks: 838
+    files: 28
+  JavaScript:
+    code: 3735
+    comments: 1221
+    blanks: 728
+    files: 70
+  Svg:
+    code: 3086
+    comments: 7
+    blanks: 11
+    files: 140
+  Toml:
+    code: 2302
+    comments: 276
+    blanks: 328
+    files: 50
+  Bash:
+    code: 1081
+    comments: 167
+    blanks: 165
+    files: 4
+  Jsx:
+    code: 523
+    comments: 16
+    blanks: 31
+    files: 3
+  Html:
+    code: 475
+    comments: 25
+    blanks: 91
+    files: 3
+  Dockerfile:
+    code: 357
+    comments: 342
+    blanks: 100
+    files: 11
+  Pan:
+    code: 164
+    comments: 0
+    blanks: 19
+    files: 1
+  Bitbake:
+    code: 26
+    comments: 6
+    blanks: 8
+    files: 1
+  Handlebars:
+    code: 13
+    comments: 0
+    blanks: 3
+    files: 1
+  Ini:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 90255
+    blanks: 44770
+    files: 868
+  Text:
+    code: 0
+    comments: 213
+    blanks: 32
+    files: 7
+total:
+  code: 1016581
+  comments: 186340
+  blanks: 179674
+  files: 4799
+---
+
+---
